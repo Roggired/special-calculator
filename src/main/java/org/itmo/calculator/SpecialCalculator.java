@@ -10,11 +10,13 @@ public final class SpecialCalculator {
         return ""; // не забудьте заменить "" на результат операции
     }
 
-    public void putLastResultInMemory(int memoryCellIndex) {
+    public String putLastResultInMemory(int memoryCellIndex) {
         // напишите здесь код
+        return ""; // не забудьте заменить "" на результат операции
     }
 
-    public void resetMemory(int memoryCellIndex) {
+    public String resetMemory(int memoryCellIndex) {
         // напишите здесь код
+        return ""; // не забудьте заменить "" на результат операции
     }
 }
